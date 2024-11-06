@@ -1,8 +1,8 @@
-# ros2
+# ROS
 
-This will be the base for learning 'ROS2' from scratch:
+This will be the base for learning 'ROS 1 and 2' from scratch:
 
-Why ROS2?
+Why ROS?
 
-ROS2 installation process:
+ROS installation process:
 
